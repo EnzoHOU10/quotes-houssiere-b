@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: HOUSSIERE Enzo Group B 
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
+- `contributor-1`: [quotes-quinque-b](https://github.com/YannQuinque/quotes-quinque-b)
 - `contributor-2`: [quotes-houssiere-b](https://github.com/EnzoHOU10/quotes-houssiere-b)
 - `contributor-3`: [quotes-houssiere-b](https://github.com/EnzoHOU10/quotes-houssiere-b)
